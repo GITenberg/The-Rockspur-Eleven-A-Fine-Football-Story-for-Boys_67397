@@ -1,0 +1,49 @@
+_repo: The-Rockspur-Eleven-A-Fine-Football-Story-for-Boys_67397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Wilder, William W. (William West)
+    - Wilder, William West
+    - Patten, Gilbert
+    - Patten, William Gilbert
+    - Patten, William G. (William Gilbert)
+    - Patten, George William
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67397'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044119761864&view=1up&seq=1
+pgterms:marc905: 20210311051536standish
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Carlos Colon, David E. Brown, Harvard University and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: United States :Street & Smith Publishers,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: New medal library, no. 376.
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Temptation -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Forgery -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Guilt -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Football -- Juvenile fiction'
+- !lcsh 'Temper -- Juvenile fiction'
+- GITenberg
+title: 'The Rockspur Eleven: A Fine Football Story for Boys'
+url: http://www.gutenberg.org/ebooks/67397
